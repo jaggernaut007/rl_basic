@@ -5,5 +5,5 @@
 *.pyc
 
 # ignore all q-table data
-./qtables/*
+qtables/
 
