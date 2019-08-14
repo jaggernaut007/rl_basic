@@ -2,5 +2,8 @@
 *.log
 
 # ignore all compiled code
-
 *.pyc
+
+# ignore all q-table data
+*.npy
+
