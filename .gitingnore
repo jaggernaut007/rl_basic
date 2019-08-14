@@ -1,1 +1,6 @@
-__pycache__
+# ignore all logs
+*.log
+
+# ignore all compiled code
+
+*.pyc
